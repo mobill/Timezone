@@ -1,0 +1,8 @@
+C:\Code\Timezone\Timezone\obj\Debug\Timezone.csprojResolveAssemblyReference.cache
+C:\Code\Timezone\Timezone\bin\Debug\Timezone.exe.config
+C:\Code\Timezone\Timezone\bin\Debug\Timezone.exe
+C:\Code\Timezone\Timezone\bin\Debug\Timezone.pdb
+C:\Code\Timezone\Timezone\bin\Debug\TZ4Net.pdb
+C:\Code\Timezone\Timezone\bin\Debug\TZ4Net.xml
+C:\Code\Timezone\Timezone\obj\Debug\Timezone.exe
+C:\Code\Timezone\Timezone\obj\Debug\Timezone.pdb

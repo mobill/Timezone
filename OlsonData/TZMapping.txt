@@ -1,0 +1,589 @@
+ID	DaylightName	StandardName	RawUtcOffset	OffsetSeconds	StandardAbbreviation	Win32Id
+0	Universal Daylight Time	Universal Standard Time	00:00:00	0	UTC	
+1	Asia/Riyadh88 Daylight Time	Asia/Riyadh88 Standard Time	03:07:04	11224	zzz	
+2	Asia/Riyadh89 Daylight Time	Asia/Riyadh89 Standard Time	03:07:04	11224	zzz	
+3	Asia/Riyadh87 Daylight Time	Asia/Riyadh87 Standard Time	03:07:04	11224	zzz	
+4	Australia/Canberra Daylight Time	Australia/Canberra Standard Time	10:00:00	36000	EST	
+5	Pacific/Honolulu Daylight Time	Pacific/Honolulu Standard Time	-10:00:00	-36000	HST	Hawaiian Standard Time
+6	Europe/Jersey Daylight Time	Europe/Jersey Standard Time	00:00:00	0	GMT	
+7	America/Halifax Daylight Time	America/Halifax Standard Time	-04:00:00	-14400	AST	Atlantic Standard Time
+8	Africa/Kigali Daylight Time	Africa/Kigali Standard Time	02:00:00	7200	CAT	
+9	Pacific/Tarawa Daylight Time	Pacific/Tarawa Standard Time	12:00:00	43200	GILT	
+10	Mexico/BajaSur Daylight Time	Mexico/BajaSur Standard Time	-07:00:00	-25200	MST	
+11	Pacific/Tahiti Daylight Time	Pacific/Tahiti Standard Time	-10:00:00	-36000	TAHT	
+12	Africa/Abidjan Daylight Time	Africa/Abidjan Standard Time	00:00:00	0	GMT	
+13	Australia/Lord_Howe Daylight Time	Australia/Lord_Howe Standard Time	10:30:00	37800	LHST	
+14	US/Pacific-New Daylight Time	US/Pacific-New Standard Time	-08:00:00	-28800	PST	
+15	America/Porto_Acre Daylight Time	America/Porto_Acre Standard Time	-05:00:00	-18000	ACT	
+16	Pacific/Wallis Daylight Time	Pacific/Wallis Standard Time	12:00:00	43200	WFT	
+17	Asia/Bangkok Daylight Time	Asia/Bangkok Standard Time	07:00:00	25200	ICT	SE Asia Standard Time
+18	Africa/Lusaka Daylight Time	Africa/Lusaka Standard Time	02:00:00	7200	CAT	
+19	Africa/Luanda Daylight Time	Africa/Luanda Standard Time	01:00:00	3600	WAT	
+20	Asia/Bahrain Daylight Time	Asia/Bahrain Standard Time	03:00:00	10800	AST	
+21	Asia/Baghdad Daylight Time	Asia/Baghdad Standard Time	03:00:00	10800	AST	Arabic Standard Time
+22	America/Dawson_Creek Daylight Time	America/Dawson_Creek Standard Time	-07:00:00	-25200	PST	
+23	America/Anguilla Daylight Time	America/Anguilla Standard Time	-04:00:00	-14400	AST	
+24	Africa/Malabo Daylight Time	Africa/Malabo Standard Time	01:00:00	3600	WAT	
+25	Africa/Maseru Daylight Time	Africa/Maseru Standard Time	02:00:00	7200	SAST	
+26	Africa/Maputo Daylight Time	Africa/Maputo Standard Time	02:00:00	7200	CAT	
+27	America/Argentina/Mendoza Daylight Time	America/Argentina/Mendoza Standard Time	-03:00:00	-10800	ART	
+28	Africa/Lubumbashi Daylight Time	Africa/Lubumbashi Standard Time	02:00:00	7200	CAT	
+29	America/Araguaina Daylight Time	America/Araguaina Standard Time	-03:00:00	-10800	BRT	
+30	Atlantic/St_Helena Daylight Time	Atlantic/St_Helena Standard Time	00:00:00	0	GMT	
+31	Africa/Niamey Daylight Time	Africa/Niamey Standard Time	01:00:00	3600	WAT	
+32	America/Monterrey Daylight Time	America/Monterrey Standard Time	-06:00:00	-21600	CST	
+33	Europe/Athens Daylight Time	Europe/Athens Standard Time	02:00:00	7200	EET	
+34	Canada/Saskatchewan Daylight Time	Canada/Saskatchewan Standard Time	-06:00:00	-21600	MST	
+35	Pacific/Rarotonga Daylight Time	Pacific/Rarotonga Standard Time	-10:00:00	-36000	CKT	
+36	Antarctica/Rothera Daylight Time	Antarctica/Rothera Standard Time	-03:00:00	-10800	ROTT	
+37	Europe/Copenhagen Daylight Time	Europe/Copenhagen Standard Time	01:00:00	3600	CET	
+38	Portugal Daylight Time	Portugal Standard Time	00:00:00	0	WET	
+39	Pacific/Fakaofo Daylight Time	Pacific/Fakaofo Standard Time	13:00:00	46800	TKT	
+40	America/North_Dakota/Center Daylight Time	America/North_Dakota/Center Standard Time	-06:00:00	-21600	CST	
+41	Asia/Kuching Daylight Time	Asia/Kuching Standard Time	08:00:00	28800	BORT	
+42	Africa/Asmera Daylight Time	Africa/Asmera Standard Time	03:00:00	10800	EAT	
+43	Africa/Asmara Daylight Time	Africa/Asmara Standard Time	03:00:00	10800	EAT	
+44	Asia/Samarkand Daylight Time	Asia/Samarkand Standard Time	05:00:00	18000	SAMT	
+45	Africa/Bissau Daylight Time	Africa/Bissau Standard Time	00:00:00	0	GMT	
+46	America/Goose_Bay Daylight Time	America/Goose_Bay Standard Time	-04:00:00	-14400	AST	
+47	America/Guyana Daylight Time	America/Guyana Standard Time	-04:00:00	-14400	GYT	
+48	Africa/Bangui Daylight Time	Africa/Bangui Standard Time	01:00:00	3600	WAT	
+49	Africa/Banjul Daylight Time	Africa/Banjul Standard Time	00:00:00	0	GMT	
+50	Africa/Bamako Daylight Time	Africa/Bamako Standard Time	00:00:00	0	GMT	
+51	America/North_Dakota/Beulah Daylight Time	America/North_Dakota/Beulah Standard Time	-06:00:00	-21600	CST	
+52	Asia/Tbilisi Daylight Time	Asia/Tbilisi Standard Time	04:00:00	14400	TBIT	Georgian Standard Time
+53	Australia/Yancowinna Daylight Time	Australia/Yancowinna Standard Time	09:30:00	34200	CST	
+54	America/Managua Daylight Time	America/Managua Standard Time	-06:00:00	-21600	CST	
+55	America/Dawson Daylight Time	America/Dawson Standard Time	-08:00:00	-28800	PST	
+56	America/Denver Daylight Time	America/Denver Standard Time	-07:00:00	-25200	MST	Mountain Standard Time
+57	America/Paramaribo Daylight Time	America/Paramaribo Standard Time	-03:00:00	-10800	PMT	
+58	America/Marigot Daylight Time	America/Marigot Standard Time	-04:00:00	-14400	AST	
+59	America/St_Lucia Daylight Time	America/St_Lucia Standard Time	-04:00:00	-14400	AST	
+60	America/St_Johns Daylight Time	America/St_Johns Standard Time	-03:30:00	-12600	NST	Newfoundland Standard Time
+61	America/St_Kitts Daylight Time	America/St_Kitts Standard Time	-04:00:00	-14400	AST	
+62	Europe/Berlin Daylight Time	Europe/Berlin Standard Time	01:00:00	3600	CET	W. Europe Standard Time
+63	Europe/Bratislava Daylight Time	Europe/Bratislava Standard Time	01:00:00	3600	CET	
+64	Europe/Budapest Daylight Time	Europe/Budapest Standard Time	01:00:00	3600	CET	Central Europe Standard Time
+65	Antarctica/South_Pole Daylight Time	Antarctica/South_Pole Standard Time	12:00:00	43200	NZST	
+66	Atlantic/South_Georgia Daylight Time	Atlantic/South_Georgia Standard Time	-02:00:00	-7200	GST	
+67	America/Yakutat Daylight Time	America/Yakutat Standard Time	-09:00:00	-32400	AKST	
+68	America/Buenos_Aires Daylight Time	America/Buenos_Aires Standard Time	-03:00:00	-10800	ART	Argentina Standard Time
+69	Africa/Douala Daylight Time	Africa/Douala Standard Time	01:00:00	3600	WAT	
+70	Africa/Nairobi Daylight Time	Africa/Nairobi Standard Time	03:00:00	10800	EAT	E. Africa Standard Time
+71	America/Moncton Daylight Time	America/Moncton Standard Time	-04:00:00	-14400	AST	
+72	Atlantic/Azores Daylight Time	Atlantic/Azores Standard Time	-01:00:00	-3600	AZOT	Azores Standard Time
+73	America/Cancun Daylight Time	America/Cancun Standard Time	-06:00:00	-21600	CST	
+74	America/Cayman Daylight Time	America/Cayman Standard Time	-05:00:00	-18000	EST	
+75	Europe/Andorra Daylight Time	Europe/Andorra Standard Time	01:00:00	3600	CET	
+76	America/Boa_Vista Daylight Time	America/Boa_Vista Standard Time	-04:00:00	-14400	AMT	
+77	America/Cuiaba Daylight Time	America/Cuiaba Standard Time	-04:00:00	-14400	AMT	Central Brazilian Standard Time
+78	Indian/Cocos Daylight Time	Indian/Cocos Standard Time	06:30:00	23400	CCT	
+79	America/Mendoza Daylight Time	America/Mendoza Standard Time	-03:00:00	-10800	ART	
+80	Asia/Makassar Daylight Time	Asia/Makassar Standard Time	08:00:00	28800	WITA	
+81	Factory Daylight Time	Factory Standard Time	00:00:00	0	Local time zone must be set--see zic manual page	
+82	Atlantic/Faeroe Daylight Time	Atlantic/Faeroe Standard Time	00:00:00	0	WET	
+83	Europe/Nicosia Daylight Time	Europe/Nicosia Standard Time	02:00:00	7200	EET	
+84	Australia/Victoria Daylight Time	Australia/Victoria Standard Time	10:00:00	36000	EST	
+85	Europe/Amsterdam Daylight Time	Europe/Amsterdam Standard Time	01:00:00	3600	CET	
+86	America/Argentina/Jujuy Daylight Time	America/Argentina/Jujuy Standard Time	-03:00:00	-10800	ART	
+87	America/Argentina/Salta Daylight Time	America/Argentina/Salta Standard Time	-03:00:00	-10800	ART	
+88	America/Cambridge_Bay Daylight Time	America/Cambridge_Bay Standard Time	-07:00:00	-25200	MST	
+89	Asia/Ashgabat Daylight Time	Asia/Ashgabat Standard Time	05:00:00	18000	ASHT	
+90	Asia/Ashkhabad Daylight Time	Asia/Ashkhabad Standard Time	05:00:00	18000	ASHT	
+91	America/St_Vincent Daylight Time	America/St_Vincent Standard Time	-04:00:00	-14400	AST	
+92	Europe/Warsaw Daylight Time	Europe/Warsaw Standard Time	01:00:00	3600	CET	Central European Standard Time
+93	Antarctica/DumontDUrville Daylight Time	Antarctica/DumontDUrville Standard Time	10:00:00	36000	DDUT	
+94	America/Argentina/Buenos_Aires Daylight Time	America/Argentina/Buenos_Aires Standard Time	-03:00:00	-10800	ART	
+95	America/Asuncion Daylight Time	America/Asuncion Standard Time	-04:00:00	-14400	PYT	Paraguay Standard Time
+96	EST5EDT Daylight Time	EST5EDT Standard Time	-05:00:00	-18000	EST	
+97	Europe/Tirane Daylight Time	Europe/Tirane Standard Time	01:00:00	3600	CET	
+98	Canada/Mountain Daylight Time	Canada/Mountain Standard Time	-07:00:00	-25200	MST	
+99	Asia/Shanghai Daylight Time	Asia/Shanghai Standard Time	08:00:00	28800	CST	China Standard Time
+100	Africa/Juba Daylight Time	Africa/Juba Standard Time	03:00:00	10800	CAT	
+101	Africa/Lome Daylight Time	Africa/Lome Standard Time	00:00:00	0	GMT	
+102	America/Port-au-Prince Daylight Time	America/Port-au-Prince Standard Time	-05:00:00	-18000	EST	
+103	Pacific/Yap Daylight Time	Pacific/Yap Standard Time	10:00:00	36000	CHUT	
+104	Australia/Lindeman Daylight Time	Australia/Lindeman Standard Time	10:00:00	36000	EST	
+105	America/Glace_Bay Daylight Time	America/Glace_Bay Standard Time	-04:00:00	-14400	AST	
+106	Asia/Pyongyang Daylight Time	Asia/Pyongyang Standard Time	09:00:00	32400	KST	
+107	Europe/Volgograd Daylight Time	Europe/Volgograd Standard Time	04:00:00	14400	VOLT	
+108	Canada/East-Saskatchewan Daylight Time	Canada/East-Saskatchewan Standard Time	-06:00:00	-21600	MST	
+109	America/La_Paz Daylight Time	America/La_Paz Standard Time	-04:00:00	-14400	BOT	SA Western Standard Time
+110	Europe/Simferopol Daylight Time	Europe/Simferopol Standard Time	02:00:00	7200	EET	
+111	Europe/Zurich Daylight Time	Europe/Zurich Standard Time	01:00:00	3600	CET	
+112	Pacific/Pohnpei Daylight Time	Pacific/Pohnpei Standard Time	11:00:00	39600	PONT	
+113	Europe/Zagreb Daylight Time	Europe/Zagreb Standard Time	01:00:00	3600	CET	
+114	America/Manaus Daylight Time	America/Manaus Standard Time	-04:00:00	-14400	AMT	
+115	America/Maceio Daylight Time	America/Maceio Standard Time	-03:00:00	-10800	BRT	
+116	Atlantic/Canary Daylight Time	Atlantic/Canary Standard Time	00:00:00	0	WET	
+117	America/Merida Daylight Time	America/Merida Standard Time	-06:00:00	-21600	CST	
+118	Singapore Daylight Time	Singapore Standard Time	08:00:00	28800	MALT	
+119	Pacific/Enderbury Daylight Time	Pacific/Enderbury Standard Time	13:00:00	46800	PHOT	
+120	Asia/Yerevan Daylight Time	Asia/Yerevan Standard Time	04:00:00	14400	AMT	Caucasus Standard Time
+121	America/Catamarca Daylight Time	America/Catamarca Standard Time	-03:00:00	-10800	ART	
+122	Europe/Skopje Daylight Time	Europe/Skopje Standard Time	01:00:00	3600	CET	
+123	America/Belize Daylight Time	America/Belize Standard Time	-06:00:00	-21600	CST	
+124	America/Rosario Daylight Time	America/Rosario Standard Time	-03:00:00	-10800	ART	
+125	America/Bogota Daylight Time	America/Bogota Standard Time	-05:00:00	-18000	COT	SA Pacific Standard Time
+126	Asia/Macao Daylight Time	Asia/Macao Standard Time	08:00:00	28800	MOT	
+127	Asia/Macau Daylight Time	Asia/Macau Standard Time	08:00:00	28800	MOT	
+128	Europe/Samara Daylight Time	Europe/Samara Standard Time	04:00:00	14400	SAMT	
+129	America/Miquelon Daylight Time	America/Miquelon Standard Time	-03:00:00	-10800	PMST	
+130	Asia/Kabul Daylight Time	Asia/Kabul Standard Time	04:30:00	16200	AFT	Afghanistan Standard Time
+131	Asia/Dhaka Daylight Time	Asia/Dhaka Standard Time	06:00:00	21600	BDT	Bangladesh Standard Time
+132	Asia/Dacca Daylight Time	Asia/Dacca Standard Time	06:00:00	21600	BDT	
+133	Asia/Dubai Daylight Time	Asia/Dubai Standard Time	04:00:00	14400	GST	Arabian Standard Time
+134	Asia/Amman Daylight Time	Asia/Amman Standard Time	03:00:00	10800	EET	Jordan Standard Time
+135	Asia/Aqtau Daylight Time	Asia/Aqtau Standard Time	05:00:00	18000	SHET	
+136	Asia/Tokyo Daylight Time	Asia/Tokyo Standard Time	09:00:00	32400	JST	Tokyo Standard Time
+137	Europe/Prague Daylight Time	Europe/Prague Standard Time	01:00:00	3600	CET	
+138	Asia/Qatar Daylight Time	Asia/Qatar Standard Time	03:00:00	10800	AST	
+139	Asia/Seoul Daylight Time	Asia/Seoul Standard Time	09:00:00	32400	KST	Korea Standard Time
+140	Europe/Chisinau Daylight Time	Europe/Chisinau Standard Time	02:00:00	7200	EET	
+141	Africa/Mogadishu Daylight Time	Africa/Mogadishu Standard Time	03:00:00	10800	EAT	
+142	America/Adak Daylight Time	America/Adak Standard Time	-10:00:00	-36000	HAST	
+143	America/Atka Daylight Time	America/Atka Standard Time	-10:00:00	-36000	HAST	
+144	America/Lima Daylight Time	America/Lima Standard Time	-05:00:00	-18000	PET	
+145	America/Nome Daylight Time	America/Nome Standard Time	-09:00:00	-32400	AKST	
+146	America/Havana Daylight Time	America/Havana Standard Time	-05:00:00	-18000	CST	
+147	Asia/Magadan Daylight Time	Asia/Magadan Standard Time	12:00:00	43200	MAGT	Magadan Standard Time
+148	Atlantic/Faroe Daylight Time	Atlantic/Faroe Standard Time	00:00:00	0	WET	
+149	America/Dominica Daylight Time	America/Dominica Standard Time	-04:00:00	-14400	AST	
+150	Europe/Vienna Daylight Time	Europe/Vienna Standard Time	01:00:00	3600	CET	
+151	Europe/Vilnius Daylight Time	Europe/Vilnius Standard Time	02:00:00	7200	EET	
+152	America/Inuvik Daylight Time	America/Inuvik Standard Time	-07:00:00	-25200	MST	
+153	America/Argentina/Rio_Gallegos Daylight Time	America/Argentina/Rio_Gallegos Standard Time	-03:00:00	-10800	ART	
+154	Europe/Belgrade Daylight Time	Europe/Belgrade Standard Time	01:00:00	3600	CET	
+155	Africa/Casablanca Daylight Time	Africa/Casablanca Standard Time	00:00:00	0	WET	Morocco Standard Time
+156	Asia/Yakutsk Daylight Time	Asia/Yakutsk Standard Time	10:00:00	36000	YAKT	Yakutsk Standard Time
+157	America/Nassau Daylight Time	America/Nassau Standard Time	-05:00:00	-18000	EST	
+158	CST6CDT Daylight Time	CST6CDT Standard Time	-06:00:00	-21600	CST	
+159	America/Argentina/Ushuaia Daylight Time	America/Argentina/Ushuaia Standard Time	-03:00:00	-10800	ART	
+160	America/Montserrat Daylight Time	America/Montserrat Standard Time	-04:00:00	-14400	AST	
+161	Africa/Kampala Daylight Time	Africa/Kampala Standard Time	03:00:00	10800	EAT	
+162	Asia/Tel_Aviv Daylight Time	Asia/Tel_Aviv Standard Time	02:00:00	7200	IST	
+163	America/Santo_Domingo Daylight Time	America/Santo_Domingo Standard Time	-04:00:00	-14400	EST	
+164	America/Godthab Daylight Time	America/Godthab Standard Time	-03:00:00	-10800	WGT	Greenland Standard Time
+165	Asia/Dushanbe Daylight Time	Asia/Dushanbe Standard Time	05:00:00	18000	DUST	
+166	Asia/Colombo Daylight Time	Asia/Colombo Standard Time	05:30:00	19800	IST	Sri Lanka Standard Time
+167	America/Rankin_Inlet Daylight Time	America/Rankin_Inlet Standard Time	-06:00:00	-21600	CST	
+168	Africa/Ouagadougou Daylight Time	Africa/Ouagadougou Standard Time	00:00:00	0	GMT	
+169	America/Juneau Daylight Time	America/Juneau Standard Time	-09:00:00	-32400	AKST	
+170	PRC Daylight Time	PRC Standard Time	08:00:00	28800	CST	
+171	ROC Daylight Time	ROC Standard Time	08:00:00	28800	CST	
+172	ROK Daylight Time	ROK Standard Time	09:00:00	32400	KST	
+173	WET Daylight Time	WET Standard Time	00:00:00	0	WET	
+174	HST Daylight Time	HST Standard Time	-10:00:00	-36000	HST	
+175	UCT Daylight Time	UCT Standard Time	00:00:00	0	UCT	
+176	UTC Daylight Time	UTC Standard Time	00:00:00	0	UTC	
+177	CET Daylight Time	CET Standard Time	01:00:00	3600	CET	
+178	MST Daylight Time	MST Standard Time	-07:00:00	-25200	MST	
+179	MET Daylight Time	MET Standard Time	01:00:00	3600	MET	
+180	GMT Daylight Time	GMT Standard Time	00:00:00	0	GMT	
+181	EST Daylight Time	EST Standard Time	-05:00:00	-18000	EST	
+182	EET Daylight Time	EET Standard Time	02:00:00	7200	EET	
+183	Africa/Gaborone Daylight Time	Africa/Gaborone Standard Time	02:00:00	7200	CAT	
+184	Etc/GMT+12 Daylight Time	Etc/GMT+12 Standard Time	-12:00:00	-43200	GMT+12	Dateline Standard Time
+185	Etc/GMT+11 Daylight Time	Etc/GMT+11 Standard Time	-11:00:00	-39600	GMT+11	UTC-11
+186	Etc/GMT+10 Daylight Time	Etc/GMT+10 Standard Time	-10:00:00	-36000	GMT+10	
+187	Etc/GMT-14 Daylight Time	Etc/GMT-14 Standard Time	14:00:00	50400	GMT-14	
+188	Etc/GMT-11 Daylight Time	Etc/GMT-11 Standard Time	11:00:00	39600	GMT-11	
+189	Etc/GMT-10 Daylight Time	Etc/GMT-10 Standard Time	10:00:00	36000	GMT-10	
+190	Etc/GMT-13 Daylight Time	Etc/GMT-13 Standard Time	13:00:00	46800	GMT-13	
+191	Etc/GMT-12 Daylight Time	Etc/GMT-12 Standard Time	12:00:00	43200	GMT-12	UTC+12
+192	Asia/Krasnoyarsk Daylight Time	Asia/Krasnoyarsk Standard Time	08:00:00	28800	KRAT	North Asia Standard Time
+193	Europe/Vatican Daylight Time	Europe/Vatican Standard Time	01:00:00	3600	CET	
+194	Canada/Central Daylight Time	Canada/Central Standard Time	-06:00:00	-21600	CST	
+195	America/Panama Daylight Time	America/Panama Standard Time	-05:00:00	-18000	EST	
+196	Atlantic/Jan_Mayen Daylight Time	Atlantic/Jan_Mayen Standard Time	01:00:00	3600	CET	
+197	America/Montevideo Daylight Time	America/Montevideo Standard Time	-03:00:00	-10800	UYT	Montevideo Standard Time
+198	America/New_York Daylight Time	America/New_York Standard Time	-05:00:00	-18000	EST	Eastern Standard Time
+199	Chile/Continental Daylight Time	Chile/Continental Standard Time	-04:00:00	-14400	CLT	
+200	America/Grand_Turk Daylight Time	America/Grand_Turk Standard Time	-05:00:00	-18000	EST	
+201	America/Santa_Isabel Daylight Time	America/Santa_Isabel Standard Time	-08:00:00	-28800	PST	Pacific Standard Time (Mexico)
+202	America/Virgin Daylight Time	America/Virgin Standard Time	-04:00:00	-14400	AST	
+203	America/Grenada Daylight Time	America/Grenada Standard Time	-04:00:00	-14400	AST	
+204	America/Metlakatla Daylight Time	America/Metlakatla Standard Time	-08:00:00	-28800	PST	
+205	America/Guatemala Daylight Time	America/Guatemala Standard Time	-06:00:00	-21600	CST	Central America Standard Time
+206	America/Puerto_Rico Daylight Time	America/Puerto_Rico Standard Time	-04:00:00	-14400	AST	
+207	America/Tijuana Daylight Time	America/Tijuana Standard Time	-08:00:00	-28800	PST	
+208	America/Indiana/Marengo Daylight Time	America/Indiana/Marengo Standard Time	-05:00:00	-18000	EST	
+209	Europe/Brussels Daylight Time	Europe/Brussels Standard Time	01:00:00	3600	CET	
+210	Australia/West Daylight Time	Australia/West Standard Time	08:00:00	28800	WST	
+211	America/Toronto Daylight Time	America/Toronto Standard Time	-05:00:00	-18000	EST	
+212	America/Tortola Daylight Time	America/Tortola Standard Time	-04:00:00	-14400	AST	
+213	America/Rio_Branco Daylight Time	America/Rio_Branco Standard Time	-05:00:00	-18000	ACT	
+214	Africa/Sao_Tome Daylight Time	Africa/Sao_Tome Standard Time	00:00:00	0	GMT	
+215	America/Recife Daylight Time	America/Recife Standard Time	-03:00:00	-10800	BRT	
+216	America/Regina Daylight Time	America/Regina Standard Time	-06:00:00	-21600	MST	Canada Central Standard Time
+217	Europe/Zaporozhye Daylight Time	Europe/Zaporozhye Standard Time	02:00:00	7200	EET	
+218	America/Caracas Daylight Time	America/Caracas Standard Time	-04:30:00	-16200	VET	Venezuela Standard Time
+219	Arctic/Longyearbyen Daylight Time	Arctic/Longyearbyen Standard Time	01:00:00	3600	CET	
+220	America/Cayenne Daylight Time	America/Cayenne Standard Time	-03:00:00	-10800	GFT	SA Eastern Standard Time
+221	America/El_Salvador Daylight Time	America/El_Salvador Standard Time	-06:00:00	-21600	CST	
+222	Canada/Eastern Daylight Time	Canada/Eastern Standard Time	-05:00:00	-18000	EST	
+223	Australia/Brisbane Daylight Time	Australia/Brisbane Standard Time	10:00:00	36000	EST	E. Australia Standard Time
+224	US/Central Daylight Time	US/Central Standard Time	-06:00:00	-21600	CST	
+225	Africa/Addis_Ababa Daylight Time	Africa/Addis_Ababa Standard Time	03:00:00	10800	EAT	
+226	Pacific/Norfolk Daylight Time	Pacific/Norfolk Standard Time	11:30:00	41400	NFT	
+227	Africa/Ndjamena Daylight Time	Africa/Ndjamena Standard Time	01:00:00	3600	WAT	
+228	America/Kentucky/Monticello Daylight Time	America/Kentucky/Monticello Standard Time	-05:00:00	-18000	EST	
+229	Asia/Vladivostok Daylight Time	Asia/Vladivostok Standard Time	11:00:00	39600	VLAT	Vladivostok Standard Time
+230	Chile/EasterIsland Daylight Time	Chile/EasterIsland Standard Time	-06:00:00	-21600	EAST	
+231	Indian/Antananarivo Daylight Time	Indian/Antananarivo Standard Time	03:00:00	10800	EAT	
+232	America/Los_Angeles Daylight Time	America/Los_Angeles Standard Time	-08:00:00	-28800	PST	Pacific Standard Time
+233	America/Cordoba Daylight Time	America/Cordoba Standard Time	-03:00:00	-10800	ART	
+234	Asia/Manila Daylight Time	Asia/Manila Standard Time	08:00:00	28800	PHT	
+235	US/East-Indiana Daylight Time	US/East-Indiana Standard Time	-05:00:00	-18000	EST	
+236	Asia/Muscat Daylight Time	Asia/Muscat Standard Time	04:00:00	14400	GST	
+237	Asia/Damascus Daylight Time	Asia/Damascus Standard Time	02:00:00	7200	EET	Syria Standard Time
+238	America/Argentina/Cordoba Daylight Time	America/Argentina/Cordoba Standard Time	-03:00:00	-10800	ART	
+239	America/Chicago Daylight Time	America/Chicago Standard Time	-06:00:00	-21600	CST	Central Standard Time
+240	Asia/Hebron Daylight Time	Asia/Hebron Standard Time	02:00:00	7200	EET	
+241	America/Menominee Daylight Time	America/Menominee Standard Time	-06:00:00	-21600	CST	
+242	Asia/Harbin Daylight Time	Asia/Harbin Standard Time	08:00:00	28800	CST	
+243	Atlantic/Stanley Daylight Time	Atlantic/Stanley Standard Time	-03:00:00	-10800	FKT	
+244	Asia/Yekaterinburg Daylight Time	Asia/Yekaterinburg Standard Time	06:00:00	21600	YEKT	Ekaterinburg Standard Time
+245	America/Curacao Daylight Time	America/Curacao Standard Time	-04:00:00	-14400	AST	
+246	Antarctica/Casey Daylight Time	Antarctica/Casey Standard Time	08:00:00	28800	WST	
+247	America/Barbados Daylight Time	America/Barbados Standard Time	-04:00:00	-14400	AST	
+248	Antarctica/Davis Daylight Time	Antarctica/Davis Standard Time	07:00:00	25200	DAVT	
+249	Europe/Bucharest Daylight Time	Europe/Bucharest Standard Time	02:00:00	7200	EET	GTB Standard Time
+250	America/Port_of_Spain Daylight Time	America/Port_of_Spain Standard Time	-04:00:00	-14400	AST	
+251	Antarctica/Syowa Daylight Time	Antarctica/Syowa Standard Time	03:00:00	10800	SYOT	
+252	US/Alaska Daylight Time	US/Alaska Standard Time	-09:00:00	-32400	AKST	
+253	America/Whitehorse Daylight Time	America/Whitehorse Standard Time	-08:00:00	-28800	PST	
+254	Australia/Queensland Daylight Time	Australia/Queensland Standard Time	10:00:00	36000	EST	
+255	Etc/GMT Daylight Time	Etc/GMT Standard Time	00:00:00	0	GMT	UTC
+256	Etc/UTC Daylight Time	Etc/UTC Standard Time	00:00:00	0	UTC	
+257	Etc/UCT Daylight Time	Etc/UCT Standard Time	00:00:00	0	UCT	
+258	America/Iqaluit Daylight Time	America/Iqaluit Standard Time	-05:00:00	-18000	EST	
+259	Pacific/Auckland Daylight Time	Pacific/Auckland Standard Time	12:00:00	43200	NZST	New Zealand Standard Time
+260	Asia/Kuwait Daylight Time	Asia/Kuwait Standard Time	03:00:00	10800	AST	
+261	Asia/Novosibirsk Daylight Time	Asia/Novosibirsk Standard Time	07:00:00	25200	NOVT	N. Central Asia Standard Time
+262	Africa/Freetown Daylight Time	Africa/Freetown Standard Time	00:00:00	0	WAT	
+263	Africa/Dar_es_Salaam Daylight Time	Africa/Dar_es_Salaam Standard Time	03:00:00	10800	EAT	
+264	America/Detroit Daylight Time	America/Detroit Standard Time	-05:00:00	-18000	EST	
+265	Africa/Djibouti Daylight Time	Africa/Djibouti Standard Time	03:00:00	10800	EAT	
+266	Europe/Oslo Daylight Time	Europe/Oslo Standard Time	01:00:00	3600	CET	
+267	Europe/Kiev Daylight Time	Europe/Kiev Standard Time	02:00:00	7200	EET	FLE Standard Time
+268	Europe/Rome Daylight Time	Europe/Rome Standard Time	01:00:00	3600	CET	
+269	Europe/Riga Daylight Time	Europe/Riga Standard Time	02:00:00	7200	EET	
+270	America/Guayaquil Daylight Time	America/Guayaquil Standard Time	-05:00:00	-18000	ECT	
+271	Indian/Maldives Daylight Time	Indian/Maldives Standard Time	05:00:00	18000	MVT	
+272	Europe/Ljubljana Daylight Time	Europe/Ljubljana Standard Time	01:00:00	3600	CET	
+273	Europe/Guernsey Daylight Time	Europe/Guernsey Standard Time	00:00:00	0	GMT	
+274	Africa/Lagos Daylight Time	Africa/Lagos Standard Time	01:00:00	3600	WAT	W. Central Africa Standard Time
+275	Pacific/Kiritimati Daylight Time	Pacific/Kiritimati Standard Time	14:00:00	50400	LINT	
+276	Africa/Accra Daylight Time	Africa/Accra Standard Time	00:00:00	0	GMT	
+277	Indian/Comoro Daylight Time	Indian/Comoro Standard Time	03:00:00	10800	EAT	
+278	Africa/Cairo Daylight Time	Africa/Cairo Standard Time	02:00:00	7200	EET	Egypt Standard Time
+279	Africa/Ceuta Daylight Time	Africa/Ceuta Standard Time	01:00:00	3600	CET	
+280	Africa/Dakar Daylight Time	Africa/Dakar Standard Time	00:00:00	0	GMT	
+281	Indian/Chagos Daylight Time	Indian/Chagos Standard Time	06:00:00	21600	IOT	
+282	Africa/Johannesburg Daylight Time	Africa/Johannesburg Standard Time	02:00:00	7200	SAST	South Africa Standard Time
+283	Asia/Phnom_Penh Daylight Time	Asia/Phnom_Penh Standard Time	07:00:00	25200	ICT	
+284	Africa/Tunis Daylight Time	Africa/Tunis Standard Time	01:00:00	3600	CET	
+285	Africa/El_Aaiun Daylight Time	Africa/El_Aaiun Standard Time	00:00:00	0	WET	
+286	America/Ojinaga Daylight Time	America/Ojinaga Standard Time	-07:00:00	-25200	MST	
+287	Poland Daylight Time	Poland Standard Time	01:00:00	3600	CET	
+288	Europe/Isle_of_Man Daylight Time	Europe/Isle_of_Man Standard Time	00:00:00	0	GMT	
+289	America/North_Dakota/New_Salem Daylight Time	America/North_Dakota/New_Salem Standard Time	-06:00:00	-21600	CST	
+290	America/Sao_Paulo Daylight Time	America/Sao_Paulo Standard Time	-03:00:00	-10800	BRT	E. South America Standard Time
+291	America/Mazatlan Daylight Time	America/Mazatlan Standard Time	-07:00:00	-25200	MST	
+292	America/Hermosillo Daylight Time	America/Hermosillo Standard Time	-07:00:00	-25200	MST	
+293	America/Lower_Princes Daylight Time	America/Lower_Princes Standard Time	-04:00:00	-14400	AST	
+294	Asia/Almaty Daylight Time	Asia/Almaty Standard Time	06:00:00	21600	ALMT	Central Asia Standard Time
+295	Asia/Anadyr Daylight Time	Asia/Anadyr Standard Time	12:00:00	43200	ANAT	
+296	America/Phoenix Daylight Time	America/Phoenix Standard Time	-07:00:00	-25200	MST	US Mountain Standard Time
+297	America/Creston Daylight Time	America/Creston Standard Time	-07:00:00	-25200	MST	
+298	US/Hawaii Daylight Time	US/Hawaii Standard Time	-10:00:00	-36000	HST	
+299	America/Porto_Velho Daylight Time	America/Porto_Velho Standard Time	-04:00:00	-14400	AMT	
+300	Asia/Aqtobe Daylight Time	Asia/Aqtobe Standard Time	05:00:00	18000	AQTT	
+301	Asia/Beirut Daylight Time	Asia/Beirut Standard Time	02:00:00	7200	EET	Middle East Standard Time
+302	US/Aleutian Daylight Time	US/Aleutian Standard Time	-10:00:00	-36000	HAST	
+303	Australia/Broken_Hill Daylight Time	Australia/Broken_Hill Standard Time	09:30:00	34200	CST	
+304	America/Shiprock Daylight Time	America/Shiprock Standard Time	-07:00:00	-25200	MST	
+305	Asia/Nicosia Daylight Time	Asia/Nicosia Standard Time	02:00:00	7200	EET	E. Europe Standard Time
+306	Indian/Mahe Daylight Time	Indian/Mahe Standard Time	04:00:00	14400	SCT	
+307	Europe/Tallinn Daylight Time	Europe/Tallinn Standard Time	02:00:00	7200	EET	
+308	America/Noronha Daylight Time	America/Noronha Standard Time	-02:00:00	-7200	FNT	
+309	America/Indiana/Petersburg Daylight Time	America/Indiana/Petersburg Standard Time	-05:00:00	-18000	EST	
+310	America/Yellowknife Daylight Time	America/Yellowknife Standard Time	-07:00:00	-25200	MST	
+311	Asia/Brunei Daylight Time	Asia/Brunei Standard Time	08:00:00	28800	BNT	
+312	Asia/Irkutsk Daylight Time	Asia/Irkutsk Standard Time	09:00:00	32400	IRKT	North Asia East Standard Time
+313	Asia/Kathmandu Daylight Time	Asia/Kathmandu Standard Time	05:45:00	20700	NPT	
+314	America/Tegucigalpa Daylight Time	America/Tegucigalpa Standard Time	-06:00:00	-21600	CST	
+315	US/Indiana-Starke Daylight Time	US/Indiana-Starke Standard Time	-06:00:00	-21600	CST	
+316	Africa/Nouakchott Daylight Time	Africa/Nouakchott Standard Time	00:00:00	0	GMT	
+317	Jamaica Daylight Time	Jamaica Standard Time	-05:00:00	-18000	EST	
+318	America/St_Thomas Daylight Time	America/St_Thomas Standard Time	-04:00:00	-14400	AST	
+319	America/Nipigon Daylight Time	America/Nipigon Standard Time	-05:00:00	-18000	EST	
+320	Atlantic/Reykjavik Daylight Time	Atlantic/Reykjavik Standard Time	00:00:00	0	IST	Greenwich Standard Time
+321	America/Winnipeg Daylight Time	America/Winnipeg Standard Time	-06:00:00	-21600	CST	
+322	Turkey Daylight Time	Turkey Standard Time	02:00:00	7200	EET	
+323	America/Argentina/Catamarca Daylight Time	America/Argentina/Catamarca Standard Time	-03:00:00	-10800	ART	
+324	Indian/Reunion Daylight Time	Indian/Reunion Standard Time	04:00:00	14400	RET	
+325	Asia/Sakhalin Daylight Time	Asia/Sakhalin Standard Time	11:00:00	39600	SAKT	
+326	Etc/Greenwich Daylight Time	Etc/Greenwich Standard Time	00:00:00	0	GMT	
+327	Pacific/Galapagos Daylight Time	Pacific/Galapagos Standard Time	-06:00:00	-21600	GALT	
+328	America/Bahia_Banderas Daylight Time	America/Bahia_Banderas Standard Time	-06:00:00	-21600	CST	
+329	America/Argentina/ComodRivadavia Daylight Time	America/Argentina/ComodRivadavia Standard Time	-03:00:00	-10800	ART	
+330	US/Arizona Daylight Time	US/Arizona Standard Time	-07:00:00	-25200	MST	
+331	America/Anchorage Daylight Time	America/Anchorage Standard Time	-09:00:00	-32400	AKST	Alaskan Standard Time
+332	Pacific/Apia Daylight Time	Pacific/Apia Standard Time	13:00:00	46800	WST	Samoa Standard Time
+333	Pacific/Guam Daylight Time	Pacific/Guam Standard Time	10:00:00	36000	ChST	
+334	Pacific/Fiji Daylight Time	Pacific/Fiji Standard Time	12:00:00	43200	FJT	Fiji Standard Time
+335	Pacific/Niue Daylight Time	Pacific/Niue Standard Time	-11:00:00	-39600	NUT	
+336	Pacific/Truk Daylight Time	Pacific/Truk Standard Time	10:00:00	36000	CHUT	
+337	Pacific/Wake Daylight Time	Pacific/Wake Standard Time	12:00:00	43200	WAKT	
+338	America/Edmonton Daylight Time	America/Edmonton Standard Time	-07:00:00	-25200	MST	
+339	Africa/Khartoum Daylight Time	Africa/Khartoum Standard Time	03:00:00	10800	CAT	
+340	Asia/Jayapura Daylight Time	Asia/Jayapura Standard Time	09:00:00	32400	WIT	
+341	Africa/Kinshasa Daylight Time	Africa/Kinshasa Standard Time	01:00:00	3600	WAT	
+342	Europe/Luxembourg Daylight Time	Europe/Luxembourg Standard Time	01:00:00	3600	CET	
+343	GB-Eire Daylight Time	GB-Eire Standard Time	00:00:00	0	GMT	
+344	Asia/Katmandu Daylight Time	Asia/Katmandu Standard Time	05:45:00	20700	NPT	Nepal Standard Time
+345	America/Fortaleza Daylight Time	America/Fortaleza Standard Time	-03:00:00	-10800	BRT	
+346	America/Eirunepe Daylight Time	America/Eirunepe Standard Time	-05:00:00	-18000	ACT	
+347	Australia/Tasmania Daylight Time	Australia/Tasmania Standard Time	10:00:00	36000	EST	
+348	Pacific/Pitcairn Daylight Time	Pacific/Pitcairn Standard Time	-08:00:00	-28800	PST	
+349	Africa/Conakry Daylight Time	Africa/Conakry Standard Time	00:00:00	0	GMT	
+350	Pacific/Kwajalein Daylight Time	Pacific/Kwajalein Standard Time	12:00:00	43200	MHT	
+351	Mideast/Riyadh87 Daylight Time	Mideast/Riyadh87 Standard Time	03:07:04	11224	zzz	
+352	Mideast/Riyadh89 Daylight Time	Mideast/Riyadh89 Standard Time	03:07:04	11224	zzz	
+353	Mideast/Riyadh88 Daylight Time	Mideast/Riyadh88 Standard Time	03:07:04	11224	zzz	
+354	Canada/Atlantic Daylight Time	Canada/Atlantic Standard Time	-04:00:00	-14400	AST	
+355	Pacific/Funafuti Daylight Time	Pacific/Funafuti Standard Time	12:00:00	43200	TVT	
+356	Asia/Thimbu Daylight Time	Asia/Thimbu Standard Time	06:00:00	21600	BTT	
+357	US/Mountain Daylight Time	US/Mountain Standard Time	-07:00:00	-25200	MST	
+358	Asia/Taipei Daylight Time	Asia/Taipei Standard Time	08:00:00	28800	CST	Taipei Standard Time
+359	Asia/Tehran Daylight Time	Asia/Tehran Standard Time	03:30:00	12600	IRST	Iran Standard Time
+360	US/Pacific Daylight Time	US/Pacific Standard Time	-08:00:00	-28800	PST	
+361	Pacific/Chatham Daylight Time	Pacific/Chatham Standard Time	12:45:00	45900	CHAST	
+362	Asia/Urumqi Daylight Time	Asia/Urumqi Standard Time	08:00:00	28800	CST	
+363	NZ Daylight Time	NZ Standard Time	12:00:00	43200	NZST	
+364	GB Daylight Time	GB Standard Time	00:00:00	0	GMT	
+365	Australia/ACT Daylight Time	Australia/ACT Standard Time	10:00:00	36000	EST	
+366	Australia/NSW Daylight Time	Australia/NSW Standard Time	10:00:00	36000	EST	
+367	Australia/LHI Daylight Time	Australia/LHI Standard Time	10:30:00	37800	LHST	
+368	Africa/Libreville Daylight Time	Africa/Libreville Standard Time	01:00:00	3600	WAT	
+369	Asia/Pontianak Daylight Time	Asia/Pontianak Standard Time	07:00:00	25200	WIB	
+370	Europe/Kaliningrad Daylight Time	Europe/Kaliningrad Standard Time	03:00:00	10800	EET	Kaliningrad Standard Time
+371	America/Blanc-Sablon Daylight Time	America/Blanc-Sablon Standard Time	-04:00:00	-14400	AST	
+372	Pacific/Tongatapu Daylight Time	Pacific/Tongatapu Standard Time	13:00:00	46800	TOT	Tonga Standard Time
+373	Africa/Tripoli Daylight Time	Africa/Tripoli Standard Time	02:00:00	7200	CET	Libya Standard Time
+374	Antarctica/McMurdo Daylight Time	Antarctica/McMurdo Standard Time	12:00:00	43200	NZST	
+375	Navajo Daylight Time	Navajo Standard Time	-07:00:00	-25200	MST	
+376	Europe/Helsinki Daylight Time	Europe/Helsinki Standard Time	02:00:00	7200	EET	
+377	Indian/Christmas Daylight Time	Indian/Christmas Standard Time	07:00:00	25200	CXT	
+378	Israel Daylight Time	Israel Standard Time	02:00:00	7200	IST	
+379	Brazil/West Daylight Time	Brazil/West Standard Time	-04:00:00	-14400	AMT	
+380	Brazil/Acre Daylight Time	Brazil/Acre Standard Time	-05:00:00	-18000	ACT	
+381	Brazil/East Daylight Time	Brazil/East Standard Time	-03:00:00	-10800	BRT	
+382	America/Argentina/La_Rioja Daylight Time	America/Argentina/La_Rioja Standard Time	-03:00:00	-10800	ART	
+383	US/Michigan Daylight Time	US/Michigan Standard Time	-05:00:00	-18000	EST	
+384	Indian/Mauritius Daylight Time	Indian/Mauritius Standard Time	04:00:00	14400	MUT	Mauritius Standard Time
+385	Europe/Belfast Daylight Time	Europe/Belfast Standard Time	00:00:00	0	GMT	
+386	Etc/GMT+2 Daylight Time	Etc/GMT+2 Standard Time	-02:00:00	-7200	GMT+2	UTC-02
+387	Etc/GMT+3 Daylight Time	Etc/GMT+3 Standard Time	-03:00:00	-10800	GMT+3	
+388	Etc/GMT+0 Daylight Time	Etc/GMT+0 Standard Time	00:00:00	0	GMT	
+389	Etc/GMT+1 Daylight Time	Etc/GMT+1 Standard Time	-01:00:00	-3600	GMT+1	
+390	Etc/GMT+6 Daylight Time	Etc/GMT+6 Standard Time	-06:00:00	-21600	GMT+6	
+391	Etc/GMT+7 Daylight Time	Etc/GMT+7 Standard Time	-07:00:00	-25200	GMT+7	
+392	Etc/GMT+4 Daylight Time	Etc/GMT+4 Standard Time	-04:00:00	-14400	GMT+4	
+393	Etc/GMT+5 Daylight Time	Etc/GMT+5 Standard Time	-05:00:00	-18000	GMT+5	
+394	Etc/GMT+8 Daylight Time	Etc/GMT+8 Standard Time	-08:00:00	-28800	GMT+8	
+395	Etc/GMT+9 Daylight Time	Etc/GMT+9 Standard Time	-09:00:00	-32400	GMT+9	
+396	Etc/GMT-4 Daylight Time	Etc/GMT-4 Standard Time	04:00:00	14400	GMT-4	
+397	Etc/GMT-5 Daylight Time	Etc/GMT-5 Standard Time	05:00:00	18000	GMT-5	
+398	Etc/GMT-6 Daylight Time	Etc/GMT-6 Standard Time	06:00:00	21600	GMT-6	
+399	Etc/GMT-7 Daylight Time	Etc/GMT-7 Standard Time	07:00:00	25200	GMT-7	
+400	Etc/GMT-0 Daylight Time	Etc/GMT-0 Standard Time	00:00:00	0	GMT	
+401	Etc/GMT-1 Daylight Time	Etc/GMT-1 Standard Time	01:00:00	3600	GMT-1	
+402	Etc/GMT-2 Daylight Time	Etc/GMT-2 Standard Time	02:00:00	7200	GMT-2	
+403	Etc/GMT-3 Daylight Time	Etc/GMT-3 Standard Time	03:00:00	10800	GMT-3	
+404	Etc/GMT-8 Daylight Time	Etc/GMT-8 Standard Time	08:00:00	28800	GMT-8	
+405	Etc/GMT-9 Daylight Time	Etc/GMT-9 Standard Time	09:00:00	32400	GMT-9	
+406	America/Argentina/San_Luis Daylight Time	America/Argentina/San_Luis Standard Time	-03:00:00	-10800	ART	
+407	America/Argentina/San_Juan Daylight Time	America/Argentina/San_Juan Standard Time	-03:00:00	-10800	ART	
+408	Asia/Jakarta Daylight Time	Asia/Jakarta Standard Time	07:00:00	25200	WIB	
+409	Europe/Stockholm Daylight Time	Europe/Stockholm Standard Time	01:00:00	3600	CET	
+410	Asia/Ulaanbaatar Daylight Time	Asia/Ulaanbaatar Standard Time	08:00:00	28800	ULAT	Ulaanbaatar Standard Time
+411	Asia/Riyadh Daylight Time	Asia/Riyadh Standard Time	03:00:00	10800	AST	Arab Standard Time
+412	America/Knox_IN Daylight Time	America/Knox_IN Standard Time	-06:00:00	-21600	CST	
+413	Asia/Istanbul Daylight Time	Asia/Istanbul Standard Time	02:00:00	7200	EET	
+414	America/Thunder_Bay Daylight Time	America/Thunder_Bay Standard Time	-05:00:00	-18000	EST	
+415	Atlantic/Cape_Verde Daylight Time	Atlantic/Cape_Verde Standard Time	-01:00:00	-3600	CVT	Cape Verde Standard Time
+416	Australia/Sydney Daylight Time	Australia/Sydney Standard Time	10:00:00	36000	EST	AUS Eastern Standard Time
+417	Asia/Saigon Daylight Time	Asia/Saigon Standard Time	07:00:00	25200	ICT	
+418	Europe/Mariehamn Daylight Time	Europe/Mariehamn Standard Time	02:00:00	7200	EET	
+419	Europe/Tiraspol Daylight Time	Europe/Tiraspol Standard Time	02:00:00	7200	EET	
+420	Asia/Choibalsan Daylight Time	Asia/Choibalsan Standard Time	08:00:00	28800	CHOT	
+421	Etc/Universal Daylight Time	Etc/Universal Standard Time	00:00:00	0	UTC	
+422	Africa/Windhoek Daylight Time	Africa/Windhoek Standard Time	01:00:00	3600	WAT	Namibia Standard Time
+423	America/Pangnirtung Daylight Time	America/Pangnirtung Standard Time	-05:00:00	-18000	EST	
+424	Greenwich Daylight Time	Greenwich Standard Time	00:00:00	0	GMT	
+425	Europe/Malta Daylight Time	Europe/Malta Standard Time	01:00:00	3600	CET	
+426	Europe/Minsk Daylight Time	Europe/Minsk Standard Time	03:00:00	10800	EET	
+427	Australia/Adelaide Daylight Time	Australia/Adelaide Standard Time	09:30:00	34200	CST	Cen. Australia Standard Time
+428	Africa/Monrovia Daylight Time	Africa/Monrovia Standard Time	00:00:00	0	GMT	
+429	Europe/Sofia Daylight Time	Europe/Sofia Standard Time	02:00:00	7200	EET	
+430	Europe/Paris Daylight Time	Europe/Paris Standard Time	01:00:00	3600	CET	Romance Standard Time
+431	Europe/Vaduz Daylight Time	Europe/Vaduz Standard Time	01:00:00	3600	CET	
+432	America/Atikokan Daylight Time	America/Atikokan Standard Time	-05:00:00	-18000	EST	
+433	America/Louisville Daylight Time	America/Louisville Standard Time	-05:00:00	-18000	EST	
+434	America/Resolute Daylight Time	America/Resolute Standard Time	-06:00:00	-21600	CST	
+435	localtime Daylight Time	localtime Standard Time	00:00:00	0	GMT	
+436	Australia/South Daylight Time	Australia/South Standard Time	09:30:00	34200	CST	
+437	Australia/Perth Daylight Time	Australia/Perth Standard Time	08:00:00	28800	WST	W. Australia Standard Time
+438	America/Mexico_City Daylight Time	America/Mexico_City Standard Time	-06:00:00	-21600	CST	Central Standard Time (Mexico)
+439	America/Coral_Harbour Daylight Time	America/Coral_Harbour Standard Time	-05:00:00	-18000	EST	
+440	Australia/Eucla Daylight Time	Australia/Eucla Standard Time	08:45:00	31500	CWST	
+441	Australia/North Daylight Time	Australia/North Standard Time	09:30:00	34200	CST	
+442	Asia/Jerusalem Daylight Time	Asia/Jerusalem Standard Time	02:00:00	7200	IST	Israel Standard Time
+443	Pacific/Pago_Pago Daylight Time	Pacific/Pago_Pago Standard Time	-11:00:00	-39600	SST	
+444	Europe/San_Marino Daylight Time	Europe/San_Marino Standard Time	01:00:00	3600	CET	
+445	Asia/Chongqing Daylight Time	Asia/Chongqing Standard Time	08:00:00	28800	CST	
+446	Asia/Qyzylorda Daylight Time	Asia/Qyzylorda Standard Time	06:00:00	21600	QYZT	
+447	Asia/Ujung_Pandang Daylight Time	Asia/Ujung_Pandang Standard Time	08:00:00	28800	WITA	
+448	America/Danmarkshavn Daylight Time	America/Danmarkshavn Standard Time	00:00:00	0	WGT	
+449	Canada/Pacific Daylight Time	Canada/Pacific Standard Time	-08:00:00	-28800	PST	
+450	Atlantic/Madeira Daylight Time	Atlantic/Madeira Standard Time	00:00:00	0	WET	
+451	Pacific/Gambier Daylight Time	Pacific/Gambier Standard Time	-09:00:00	-32400	GAMT	
+452	Asia/Hong_Kong Daylight Time	Asia/Hong_Kong Standard Time	08:00:00	28800	HKT	
+453	Asia/Calcutta Daylight Time	Asia/Calcutta Standard Time	05:30:00	19800	IST	India Standard Time
+454	posixrules Daylight Time	posixrules Standard Time	-05:00:00	-18000	EST	
+455	MST7MDT Daylight Time	MST7MDT Standard Time	-07:00:00	-25200	MST	
+456	America/Campo_Grande Daylight Time	America/Campo_Grande Standard Time	-04:00:00	-14400	AMT	
+457	America/Indiana/Vincennes Daylight Time	America/Indiana/Vincennes Standard Time	-05:00:00	-18000	EST	
+458	Africa/Brazzaville Daylight Time	Africa/Brazzaville Standard Time	01:00:00	3600	WAT	
+459	Antarctica/Mawson Daylight Time	Antarctica/Mawson Standard Time	05:00:00	18000	MAWT	
+460	America/Matamoros Daylight Time	America/Matamoros Standard Time	-06:00:00	-21600	CST	
+461	Australia/Currie Daylight Time	Australia/Currie Standard Time	10:00:00	36000	EST	
+462	Antarctica/Palmer Daylight Time	Antarctica/Palmer Standard Time	-04:00:00	-14400	CLT	
+463	America/Jamaica Daylight Time	America/Jamaica Standard Time	-05:00:00	-18000	EST	
+464	Pacific/Port_Moresby Daylight Time	Pacific/Port_Moresby Standard Time	10:00:00	36000	PGT	West Pacific Standard Time
+465	Atlantic/Bermuda Daylight Time	Atlantic/Bermuda Standard Time	-04:00:00	-14400	AST	
+466	America/Scoresbysund Daylight Time	America/Scoresbysund Standard Time	-01:00:00	-3600	EGT	
+467	Asia/Khandyga Daylight Time	Asia/Khandyga Standard Time	10:00:00	36000	YAKT	
+468	Antarctica/Vostok Daylight Time	Antarctica/Vostok Standard Time	06:00:00	21600	VOST	
+469	Europe/Sarajevo Daylight Time	Europe/Sarajevo Standard Time	01:00:00	3600	CET	
+470	America/Swift_Current Daylight Time	America/Swift_Current Standard Time	-06:00:00	-21600	MST	
+471	Antarctica/Macquarie Daylight Time	Antarctica/Macquarie Standard Time	11:00:00	39600	EST	
+472	Africa/Mbabane Daylight Time	Africa/Mbabane Standard Time	02:00:00	7200	SAST	
+473	Pacific/Marquesas Daylight Time	Pacific/Marquesas Standard Time	-09:30:00	-34200	MART	
+474	Pacific/Chuuk Daylight Time	Pacific/Chuuk Standard Time	10:00:00	36000	CHUT	
+475	Pacific/Efate Daylight Time	Pacific/Efate Standard Time	11:00:00	39600	VUT	
+476	Pacific/Nauru Daylight Time	Pacific/Nauru Standard Time	12:00:00	43200	NRT	
+477	Australia/Darwin Daylight Time	Australia/Darwin Standard Time	09:30:00	34200	CST	AUS Central Standard Time
+478	Pacific/Palau Daylight Time	Pacific/Palau Standard Time	09:00:00	32400	PWT	
+479	Pacific/Samoa Daylight Time	Pacific/Samoa Standard Time	-11:00:00	-39600	SST	
+480	Asia/Kuala_Lumpur Daylight Time	Asia/Kuala_Lumpur Standard Time	08:00:00	28800	MALT	
+481	Europe/Uzhgorod Daylight Time	Europe/Uzhgorod Standard Time	02:00:00	7200	EET	
+482	Canada/Yukon Daylight Time	Canada/Yukon Standard Time	-08:00:00	-28800	PST	
+483	Asia/Rangoon Daylight Time	Asia/Rangoon Standard Time	06:30:00	23400	MMT	Myanmar Standard Time
+484	Asia/Ho_Chi_Minh Daylight Time	Asia/Ho_Chi_Minh Standard Time	07:00:00	25200	ICT	
+485	Pacific/Guadalcanal Daylight Time	Pacific/Guadalcanal Standard Time	11:00:00	39600	SBT	Central Pacific Standard Time
+486	America/Kralendijk Daylight Time	America/Kralendijk Standard Time	-04:00:00	-14400	AST	
+487	Europe/Busingen Daylight Time	Europe/Busingen Standard Time	01:00:00	3600	CET	
+488	America/Indiana/Knox Daylight Time	America/Indiana/Knox Standard Time	-06:00:00	-21600	CST	
+489	Asia/Ust-Nera Daylight Time	Asia/Ust-Nera Standard Time	11:00:00	39600	MAGT	
+490	America/Ensenada Daylight Time	America/Ensenada Standard Time	-08:00:00	-28800	PST	
+491	America/Indiana/Indianapolis Daylight Time	America/Indiana/Indianapolis Standard Time	-05:00:00	-18000	EST	
+492	America/Costa_Rica Daylight Time	America/Costa_Rica Standard Time	-06:00:00	-21600	CST	
+493	Asia/Chungking Daylight Time	Asia/Chungking Standard Time	08:00:00	28800	CST	
+494	Pacific/Easter Daylight Time	Pacific/Easter Standard Time	-06:00:00	-21600	EAST	
+495	Australia/Hobart Daylight Time	Australia/Hobart Standard Time	10:00:00	36000	EST	Tasmania Standard Time
+496	America/Indiana/Vevay Daylight Time	America/Indiana/Vevay Standard Time	-05:00:00	-18000	EST	
+497	Europe/Istanbul Daylight Time	Europe/Istanbul Standard Time	02:00:00	7200	EET	Turkey Standard Time
+498	Indian/Mayotte Daylight Time	Indian/Mayotte Standard Time	03:00:00	10800	EAT	
+499	Mexico/BajaNorte Daylight Time	Mexico/BajaNorte Standard Time	-08:00:00	-28800	PST	
+500	America/Indianapolis Daylight Time	America/Indianapolis Standard Time	-05:00:00	-18000	EST	US Eastern Standard Time
+501	America/Santiago Daylight Time	America/Santiago Standard Time	-04:00:00	-14400	CLT	Pacific SA Standard Time
+502	America/Santarem Daylight Time	America/Santarem Standard Time	-03:00:00	-10800	AMT	
+503	Etc/GMT0 Daylight Time	Etc/GMT0 Standard Time	00:00:00	0	GMT	
+504	Etc/Zulu Daylight Time	Etc/Zulu Standard Time	00:00:00	0	UTC	
+505	Pacific/Johnston Daylight Time	Pacific/Johnston Standard Time	-10:00:00	-36000	HST	
+506	Brazil/DeNoronha Daylight Time	Brazil/DeNoronha Standard Time	-02:00:00	-7200	FNT	
+507	Canada/Newfoundland Daylight Time	Canada/Newfoundland Standard Time	-03:30:00	-12600	NST	
+508	Asia/Omsk Daylight Time	Asia/Omsk Standard Time	07:00:00	25200	OMST	
+509	Asia/Oral Daylight Time	Asia/Oral Standard Time	05:00:00	18000	ORAT	
+510	Asia/Hovd Daylight Time	Asia/Hovd Standard Time	07:00:00	25200	HOVT	
+511	Asia/Dili Daylight Time	Asia/Dili Standard Time	09:00:00	32400	TLT	
+512	Asia/Gaza Daylight Time	Asia/Gaza Standard Time	02:00:00	7200	EET	
+513	Asia/Aden Daylight Time	Asia/Aden Standard Time	03:00:00	10800	AST	
+514	Asia/Baku Daylight Time	Asia/Baku Standard Time	04:00:00	14400	AZT	Azerbaijan Standard Time
+515	Kwajalein Daylight Time	Kwajalein Standard Time	12:00:00	43200	MHT	
+516	Indian/Kerguelen Daylight Time	Indian/Kerguelen Standard Time	05:00:00	18000	TFT	
+517	Africa/Bujumbura Daylight Time	Africa/Bujumbura Standard Time	02:00:00	7200	CAT	
+518	America/Rainy_River Daylight Time	America/Rainy_River Standard Time	-06:00:00	-21600	CST	
+519	America/St_Barthelemy Daylight Time	America/St_Barthelemy Standard Time	-04:00:00	-14400	AST	
+520	America/Kentucky/Louisville Daylight Time	America/Kentucky/Louisville Standard Time	-05:00:00	-18000	EST	
+521	Pacific/Kosrae Daylight Time	Pacific/Kosrae Standard Time	11:00:00	39600	KOST	
+522	Mexico/General Daylight Time	Mexico/General Standard Time	-06:00:00	-21600	CST	
+523	Australia/Melbourne Daylight Time	Australia/Melbourne Standard Time	10:00:00	36000	EST	
+524	America/Indiana/Tell_City Daylight Time	America/Indiana/Tell_City Standard Time	-06:00:00	-21600	CST	
+525	US/Samoa Daylight Time	US/Samoa Standard Time	-11:00:00	-39600	SST	
+526	Europe/Lisbon Daylight Time	Europe/Lisbon Standard Time	00:00:00	0	WET	
+527	Europe/London Daylight Time	Europe/London Standard Time	00:00:00	0	GMT	GMT Standard Time
+528	US/Eastern Daylight Time	US/Eastern Standard Time	-05:00:00	-18000	EST	
+529	Pacific/Midway Daylight Time	Pacific/Midway Standard Time	-11:00:00	-39600	SST	
+530	Europe/Madrid Daylight Time	Europe/Madrid Standard Time	01:00:00	3600	CET	
+531	Pacific/Majuro Daylight Time	Pacific/Majuro Standard Time	12:00:00	43200	MHT	
+532	Japan Daylight Time	Japan Standard Time	09:00:00	32400	JST	
+533	Libya Daylight Time	Libya Standard Time	02:00:00	7200	CET	
+534	Africa/Porto-Novo Daylight Time	Africa/Porto-Novo Standard Time	01:00:00	3600	WAT	
+535	GMT-0 Daylight Time	GMT-0 Standard Time	00:00:00	0	GMT	
+536	GMT+0 Daylight Time	GMT+0 Standard Time	00:00:00	0	GMT	
+537	Asia/Novokuznetsk Daylight Time	Asia/Novokuznetsk Standard Time	07:00:00	25200	KRAT	
+538	Europe/Monaco Daylight Time	Europe/Monaco Standard Time	01:00:00	3600	CET	
+539	Europe/Moscow Daylight Time	Europe/Moscow Standard Time	04:00:00	14400	MSK	Russian Standard Time
+540	Egypt Daylight Time	Egypt Standard Time	02:00:00	7200	EET	
+541	Asia/Kamchatka Daylight Time	Asia/Kamchatka Standard Time	12:00:00	43200	PETT	
+542	Asia/Ulan_Bator Daylight Time	Asia/Ulan_Bator Standard Time	08:00:00	28800	ULAT	
+543	Africa/Timbuktu Daylight Time	Africa/Timbuktu Standard Time	00:00:00	0	GMT	
+544	NZ-CHAT Daylight Time	NZ-CHAT Standard Time	12:45:00	45900	CHAST	
+545	Pacific/Noumea Daylight Time	Pacific/Noumea Standard Time	11:00:00	39600	NCT	
+546	Europe/Gibraltar Daylight Time	Europe/Gibraltar Standard Time	01:00:00	3600	CET	
+547	Iceland Daylight Time	Iceland Standard Time	00:00:00	0	IST	
+548	Asia/Bishkek Daylight Time	Asia/Bishkek Standard Time	06:00:00	21600	KGT	
+549	PST8PDT Daylight Time	PST8PDT Standard Time	-08:00:00	-28800	PST	
+550	America/Argentina/Tucuman Daylight Time	America/Argentina/Tucuman Standard Time	-03:00:00	-10800	ART	
+551	America/Vancouver Daylight Time	America/Vancouver Standard Time	-08:00:00	-28800	PST	
+552	Asia/Karachi Daylight Time	Asia/Karachi Standard Time	05:00:00	18000	PKT	Pakistan Standard Time
+553	Asia/Kashgar Daylight Time	Asia/Kashgar Standard Time	08:00:00	28800	CST	
+554	Africa/Algiers Daylight Time	Africa/Algiers Standard Time	01:00:00	3600	WET	
+555	Europe/Podgorica Daylight Time	Europe/Podgorica Standard Time	01:00:00	3600	CET	
+556	America/Fort_Wayne Daylight Time	America/Fort_Wayne Standard Time	-05:00:00	-18000	EST	
+557	America/Montreal Daylight Time	America/Montreal Standard Time	-05:00:00	-18000	EST	
+558	Asia/Kolkata Daylight Time	Asia/Kolkata Standard Time	05:30:00	19800	IST	
+559	America/Aruba Daylight Time	America/Aruba Standard Time	-04:00:00	-14400	AST	
+560	Pacific/Ponape Daylight Time	Pacific/Ponape Standard Time	11:00:00	39600	PONT	
+561	America/Antigua Daylight Time	America/Antigua Standard Time	-04:00:00	-14400	AST	
+562	America/Belem Daylight Time	America/Belem Standard Time	-03:00:00	-10800	BRT	
+563	America/Boise Daylight Time	America/Boise Standard Time	-07:00:00	-25200	MST	
+564	America/Bahia Daylight Time	America/Bahia Standard Time	-03:00:00	-10800	BRT	Bahia Standard Time
+565	America/Thule Daylight Time	America/Thule Standard Time	-04:00:00	-14400	AST	
+566	America/Jujuy Daylight Time	America/Jujuy Standard Time	-03:00:00	-10800	ART	
+567	America/Sitka Daylight Time	America/Sitka Standard Time	-09:00:00	-32400	AKST	
+568	America/Guadeloupe Daylight Time	America/Guadeloupe Standard Time	-04:00:00	-14400	AST	
+569	Asia/Vientiane Daylight Time	Asia/Vientiane Standard Time	07:00:00	25200	ICT	
+570	Africa/Harare Daylight Time	Africa/Harare Standard Time	02:00:00	7200	CAT	
+571	Pacific/Saipan Daylight Time	Pacific/Saipan Standard Time	10:00:00	36000	ChST	
+572	Asia/Tashkent Daylight Time	Asia/Tashkent Standard Time	05:00:00	18000	TAST	West Asia Standard Time
+573	America/Chihuahua Daylight Time	America/Chihuahua Standard Time	-07:00:00	-25200	MST	Mountain Standard Time (Mexico)
+574	Asia/Singapore Daylight Time	Asia/Singapore Standard Time	08:00:00	28800	MALT	Singapore Standard Time
+575	Asia/Thimphu Daylight Time	Asia/Thimphu Standard Time	06:00:00	21600	BTT	
+576	America/Martinique Daylight Time	America/Martinique Standard Time	-04:00:00	-14400	AST	
+577	Europe/Dublin Daylight Time	Europe/Dublin Standard Time	00:00:00	0	GMT	
+578	Hongkong Daylight Time	Hongkong Standard Time	08:00:00	28800	HKT	
+579	America/Indiana/Winamac Daylight Time	America/Indiana/Winamac Standard Time	-05:00:00	-18000	EST	
+580	Zulu Daylight Time	Zulu Standard Time	00:00:00	0	UTC	
+581	W-SU Daylight Time	W-SU Standard Time	04:00:00	14400	MSK	
+582	Iran Daylight Time	Iran Standard Time	03:30:00	12600	IRST	
+583	Cuba Daylight Time	Cuba Standard Time	-05:00:00	-18000	CST	
+584	GMT0 Daylight Time	GMT0 Standard Time	00:00:00	0	GMT	
+585	Eire Daylight Time	Eire Standard Time	00:00:00	0	GMT	
+586	Africa/Blantyre Daylight Time	Africa/Blantyre Standard Time	02:00:00	7200	CAT	
+
